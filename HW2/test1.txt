@@ -1,0 +1,34 @@
+
+
+  GNU nano 2.0.6              File: test1.txt                         Modified
+
+Name: Kurtis Hassinger
+Date: 2/1/2018
+
+This is my first test document for one of Dr. Musick's Media Arts courses.
+
+
+I added a new line to this file in my text editor!!!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+^G Get Help  ^O WriteOut  ^R Read File ^Y Prev Page ^K Cut Text  ^C Cur Pos
+^X Exit      ^J Justify   ^W Where Is  ^V Next Page ^U UnCut Text^T To Spell
