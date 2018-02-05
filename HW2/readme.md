@@ -22,4 +22,4 @@ I believe any problems I have encountered where addressed in the tutorials and r
 - embedding videos
 - embedding audio
 
-Hopefully, my attention to detail is sufficient for my first forays into coding.  I have my fingers crossed that I managed to perform the `git command` correctly.  Here is screenshot to my work that I'll sync and post in Moodle: ![Image of my editor](Atom-README.md-file.jpg).
+Hopefully, my attention to detail is sufficient for my first forays into coding.  I have my fingers crossed that I managed to perform the `git command` correctly.  Here is screenshot to my work that I'll sync and post in Moodle: ![Image of my editor](./screenshot.png).
