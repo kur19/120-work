@@ -1,7 +1,7 @@
 Kurtis Hassinger
 # HOMEWORK SUMMARY
 
-I started the homework this week by familiarizing myself with chapter two of the **Unix for the Beginning Mage: A Tutorial by Joe Topjian**.  The guide introduced me to Terminal and clarified creating new files.  I proceeded to the written material of our course hosted by [github](https://montana-media-arts.github.io/creative-coding-1/modules/week-2/github/).  I worked in tandem with Dr. Musick's video tutorials and downloaded the suggested [https://atom.io/] text editor app to work with the github desktop editor.
+I started the homework this week by familiarizing myself with chapter two of the **Unix for the Beginning Mage: A Tutorial by Joe Topjian**.  The guide introduced me to Terminal and clarified creating new files.  I proceeded to the written material of our course hosted by [github](https://montana-media-arts.github.io/creative-coding-1/modules/week-2/github/).  I worked in tandem with Dr. Musick's video tutorials and downloaded the suggested [atom](https://atom.io/) text editor app to work with the github desktop editor.
 
 ## CHOICES
 
