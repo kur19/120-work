@@ -1,25 +1,16 @@
 Kurtis Hassinger
 # HOMEWORK SUMMARY
 
-I started the homework this week by familiarizing myself with chapter two of the **Unix for the Beginning Mage: A Tutorial by Joe Topjian**.  The guide introduced me to Terminal and clarified creating new files.  I proceeded to the written material of our course hosted by [github](https://montana-media-arts.github.io/creative-coding-1/modules/week-2/github/).  I worked in tandem with Dr. Musick's video tutorials and downloaded the suggested [atom](https://atom.io/) text editor app to work with the github desktop editor.
+I started the homework this week as I usually do: following along with the videos and visiting the references.  this has been the most invigorating work we have done so far.  I felt the project was accessible to me and I am understanding most parts of the descriptions (although I still struggle with radian and degree).
 
 ## CHOICES
 
-I followed the reading and tutorials in conjunction with adding to the readme files and test1 and test2.txt as instructed by Dr. Musick and moved them into the newly-created homework two folder.  The 3-step process to modify, stage, and commit my updates in github was thouroughly explained.  My early choices in Terminal proved frustrating until I read more of the *Unix* guide.
+I made very basic choices as I followed along with Dr. Musick's example.  I was shooting for a self-portrait, but it turned into a monster, strangely.  I changed the ratio's of the body, legs, arms, and head features, as well as canvas color and character colors.  This was both eye-opening and in real time whcih again is exciting in the potential that is offered for artists.
 
 ### STEPS
 
-The steps I have taken to complete the assignment have been to slowly try and absorb the lessons by attempting them.  I did look to see what issues were posted in our repo, but did not get to that until very late in the process.  I preferred to follow along with the website material, instead.
+I would say that the steps involve trial and error on my part.  I think this is an ongoing theme for me in every week.
 
 #### PROBLEMS
 
-I believe any problems I have encountered where addressed in the tutorials and reading.  However, I would like to discuss the
-
-- vcs
-  - its process
-  - its continuing development
-
-- embedding videos
-- embedding audio
-
-Hopefully, my attention to detail is sufficient for my first forays into coding.  I have my fingers crossed that I managed to perform the `git command` correctly.  Here is screenshot to my work that I'll sync and post in Moodle: ![Image of my editor](./screenshot.png).
+I had fewer problems.  Yes, sometimes the code worked and at other points, it failed, but the fixes were fairly easy and satisfying.  My main interest in looking forward is to the alpha function.  I hope we cover this in more detail, or I will stop by Dr. Musick's office.
